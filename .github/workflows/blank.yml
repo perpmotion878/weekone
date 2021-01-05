@@ -1,0 +1,55 @@
+# This is a basic workflow to help you get started with Actions
+<head>
+</head>
+<body>
+
+# Controls when the action will run. 
+on:
+  # lines(8-12
+  push: CLI https://codepen.io/alieight78/pen/VwKxmJB
+
+
+#
+}
+button  {
+    width: 100%
+    Background: red;
+    border: none;
+    color: white;
+    padding:15 px
+    border-radius: 30 px;
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3)
+}
+
+footer {
+     text-align: center;
+     margin: 20 px 0;
+     font-size: 12 px
+}
+ </style>
+</head>
+<body>
+    <h1>
+        <header>🇰🇷Seoul
+      <h1/>
+    City in South Korea
+        </header>
+         <h2/>
+         <img  src="https://graafix.blogspot.com/2011/05/wallpaper-flag-of-south-korea.html"
+        Seoul, South Korea offers something for everyone where sights and attractions are concerned. Easy to get around thanks to an efficient public transit system and also pleasantly walkable depending on where you are, Seoul is a city made for laid-back exploring.
+        Even travelers on a tight schedule or budget should find it easy to pack in a decent amount of sightseeing without having to worry about feeling too rushed.<src/>
+        'alt'=wallpaper flag of south korea />.
+        <p/>
+     <br  >
+     <br />
+      <a href="https://www.tripsavvy.com/the-top-things-to-do-in-seoul-south-korea-4142354">
+      <a/>
+    <p/>
+
+    <button>
+      Go to Seoul
+      </button>
+     <footer>
+
+     <script>
+</html>
